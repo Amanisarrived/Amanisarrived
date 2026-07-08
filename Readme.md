@@ -1,18 +1,110 @@
-# 💫 About Me:
-Hi 👋, I'm Aman<br><br>I build mobile applications using Flutter and Kotlin with a strong focus on clean UI and scalable architecture.<br><br>🛠 Tech Stack:<br>- Flutter & Dart<br>- Kotlin & Jetpack Compose<br>- Firebase (Auth, Firestore, FCM, Analytics)<br>- REST APIs<br><br>I believe in writing clean, maintainable code and building products that deliver a smooth user experience.<br>
+<div align="center">
 
+# Hey, I'm Aman Devkota 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-devkota-842b71374/) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Kotlin+%26+Jetpack+Compose+Developer;Node.js+Backend+Developer;Building+Clean+%26+Scalable+Apps" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amanisarrived&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amanisarrived&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanisarrived&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🚀 Flutter • Kotlin • Node.js Backend Developer
+
+I build modern, scalable, and production-ready mobile applications with clean UI, smooth UX, REST APIs, and maintainable backend architecture.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aman-devkota-842b71374">
+  <img src="https://img.shields.io/badge/LinkedIn-Aman%20Devkota-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Amanisarrived&style=for-the-badge&color=00D9FF" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amanisarrived&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+* 📱 I build mobile apps using **Flutter** and **Kotlin**
+* ⚙️ I create backend APIs using **Node.js** and **Express.js**
+* 🔥 I work with **Firebase**, **Supabase**, **REST APIs**, and databases
+* 🎨 I focus on **clean UI**, smooth user experience, and scalable architecture
+* 🧠 Currently improving my backend, API security, and system design skills
+* 🚀 Goal: Becoming a strong **Full Stack Mobile Developer**
+
+<br clear="right"/>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,npm" />
+
+### 🗄 Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,sqlite" />
+
+### 🎨 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,powershell" />
+
+</div>
+
+---
+
+## 🚀 Currently Working On
+
+* Building production-ready Flutter apps
+* Creating REST APIs with Node.js and Express.js
+* Learning backend architecture and API security
+* Improving database design and authentication flows
+* Building complete mobile + backend products
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amanisarrived&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Amanisarrived&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanisarrived&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amanisarrived&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanisarrived&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building clean mobile apps and scalable backend services.
+
+</div>
