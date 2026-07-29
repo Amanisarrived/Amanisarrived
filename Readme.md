@@ -2,17 +2,19 @@
 
 # Hi, I'm Aman Devkota 👋
 
-### Flutter • Kotlin • Node.js Developer
+### Flutter • Kotlin • Node.js • NestJS Developer
 
-I build modern mobile applications and backend services with a focus on clean architecture, maintainable code, and smooth user experiences.
+I build modern mobile applications and backend services with a focus on clean architecture, maintainable code, scalable APIs, and smooth user experiences.
 
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/aman-devkota-842b71374">
+    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Devkota-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
 
-<a href="https://www.linkedin.com/in/aman-devkota-842b71374">
-  <img src="https://img.shields.io/badge/LinkedIn-Aman%20Devkota-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Amanisarrived&style=flat-square&color=555555" alt="Profile Views" />
+  <a href="https://github.com/Amanisarrived">
+    <img src="https://img.shields.io/badge/GitHub-Amanisarrived-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
 
 </div>
 
@@ -20,12 +22,13 @@ I build modern mobile applications and backend services with a focus on clean ar
 
 ## About Me
 
-* Mobile application developer working with **Flutter, Dart, Kotlin, and Jetpack Compose**
-* Backend development using **Node.js, Express.js, and REST APIs**
-* Experience with **Firebase, Supabase, PostgreSQL, MySQL, MongoDB, and SQLite**
-* Focused on clean architecture, scalable code, authentication, and API security
-* Currently improving my backend development, database design, and system design skills
-* Working towards becoming a strong **Full-Stack Mobile Developer**
+- Mobile application developer working with **Flutter, Dart, Kotlin, and Jetpack Compose**
+- Backend development using **Node.js, Express.js, NestJS, and REST APIs**
+- Experience with **Firebase, Supabase, PostgreSQL, MySQL, MongoDB, and SQLite**
+- Currently exploring **Web3, Blockchain, Smart Contracts, and the Bittensor ecosystem**
+- Focused on clean architecture, scalable code, authentication, authorization, and API security
+- Currently improving my backend architecture, database design, and system design skills
+- Working towards becoming a strong **Full-Stack Mobile Developer**
 
 ---
 
@@ -34,54 +37,78 @@ I build modern mobile applications and backend services with a focus on clean ar
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" alt="Mobile Development Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" alt="Flutter, Dart, Kotlin and Android Studio" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js,npm" alt="Backend Development Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,js,npm" alt="Node.js, NestJS, Express.js, JavaScript and NPM" />
 </p>
 
 ### Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase" alt="Database and Cloud Skills" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase" alt="PostgreSQL, MySQL, MongoDB, SQLite, Firebase and Supabase" />
+</p>
+
+### Web3 & Blockchain
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+</p>
+
+<p>
+  Web3 • Blockchain Fundamentals • Smart Contracts • Decentralized Applications • Bittensor Ecosystem
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,docker" alt="Git, GitHub, Figma, VS Code, Postman and Docker" />
 </p>
 
 ---
 
-## What I'm Currently Working On
+## Currently Working On
 
-* Building production-ready Flutter applications
-* Developing REST APIs using Node.js and Express.js
-* Learning PostgreSQL, MySQL, database migrations, and ORM concepts
-* Improving authentication, authorization, and API security
-* Building complete mobile and backend applications
-* Learning scalable backend architecture and system design
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amanisarrived&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Aman's GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanisarrived&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Most Used Languages" />
-
-</div>
+- Building production-ready Flutter applications
+- Developing REST APIs using Node.js, Express.js, and NestJS
+- Learning PostgreSQL, MySQL, database migrations, and ORM concepts
+- Improving authentication, authorization, and API security
+- Building complete mobile and backend applications
+- Exploring Web3, Blockchain, Smart Contracts, and Bittensor
+- Learning scalable backend architecture and system design
 
 ---
 
-<div align="center">
+## Featured Projects
 
-### Building reliable mobile applications and scalable backend services.
+### Readly
 
-</div>
+A Flutter-based book discovery application with Firebase integration, local storage, notifications, REST APIs, and a clean user experience.
+
+### Jaggamitra
+
+A real-estate platform with a mobile frontend and Node.js backend using Express.js, Supabase, authentication, authorization, and REST APIs.
+
+### CrickView
+
+A Flutter application for cricket news, live scores, highlights, fixtures, match updates, and notifications.
+
+### ShortTV
+
+A short-video streaming application built with Flutter, Firebase, local storage, search, favourites, watch history, notifications, and dark mode.
+
+---
+
+## Development Focus
+
+```text
+Mobile Development     Flutter, Dart, Kotlin, Jetpack Compose
+Backend Development    Node.js, Express.js, NestJS
+Databases              PostgreSQL, MySQL, MongoDB, SQLite
+Cloud Services         Firebase, Supabase
+API Development        REST APIs, Authentication, Authorization
+Architecture           Clean Architecture, Modular Architecture
+Learning               Web3, Blockchain, Smart Contracts, Bittensor
