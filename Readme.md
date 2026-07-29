@@ -25,7 +25,7 @@ I build modern mobile applications and backend services with a focus on clean ar
 - Mobile application developer working with **Flutter, Dart, Kotlin, and Jetpack Compose**
 - Backend development using **Node.js, Express.js, NestJS, and REST APIs**
 - Experience with **Firebase, Supabase, PostgreSQL, MySQL, MongoDB, and SQLite**
-- Currently exploring **Web3, Blockchain, Smart Contracts, and the Bittensor ecosystem**
+- Currently exploring **Web3, Blockchain, Smart Contracts, and decentralized applications**
 - Focused on clean architecture, scalable code, authentication, authorization, and API security
 - Currently improving my backend architecture, database design, and system design skills
 - Working towards becoming a strong **Full-Stack Mobile Developer**
@@ -59,7 +59,7 @@ I build modern mobile applications and backend services with a focus on clean ar
 </p>
 
 <p>
-  Web3 • Blockchain Fundamentals • Smart Contracts • Decentralized Applications • Bittensor Ecosystem
+  Web3 • Blockchain Fundamentals • Smart Contracts • Decentralized Applications
 </p>
 
 ### Tools
@@ -77,28 +77,8 @@ I build modern mobile applications and backend services with a focus on clean ar
 - Learning PostgreSQL, MySQL, database migrations, and ORM concepts
 - Improving authentication, authorization, and API security
 - Building complete mobile and backend applications
-- Exploring Web3, Blockchain, Smart Contracts, and Bittensor
+- Exploring Web3, Blockchain, and Smart Contracts
 - Learning scalable backend architecture and system design
-
----
-
-## Featured Projects
-
-### Readly
-
-A Flutter-based book discovery application with Firebase integration, local storage, notifications, REST APIs, and a clean user experience.
-
-### Jaggamitra
-
-A real-estate platform with a mobile frontend and Node.js backend using Express.js, Supabase, authentication, authorization, and REST APIs.
-
-### CrickView
-
-A Flutter application for cricket news, live scores, highlights, fixtures, match updates, and notifications.
-
-### ShortTV
-
-A short-video streaming application built with Flutter, Firebase, local storage, search, favourites, watch history, notifications, and dark mode.
 
 ---
 
@@ -111,4 +91,4 @@ Databases              PostgreSQL, MySQL, MongoDB, SQLite
 Cloud Services         Firebase, Supabase
 API Development        REST APIs, Authentication, Authorization
 Architecture           Clean Architecture, Modular Architecture
-Learning               Web3, Blockchain, Smart Contracts, Bittensor
+Learning               Web3, Blockchain, Smart Contracts
